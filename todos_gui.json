@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "description": "Learn Python",
+    "completed": true,
+    "created": "2025-06-30 21:16:24",
+    "priority": "high",
+    "deadline": "2025-10-25 00:00:00",
+    "reminded": false,
+    "completed_date": "2025-07-03 21:31:07"
+  },
+  {
+    "id": 2,
+    "description": "Havr to Learn Maths(Calculus and Stats)",
+    "completed": false,
+    "created": "2025-06-30 21:17:01",
+    "priority": "high",
+    "deadline": "2025-08-29 22:00:00",
+    "reminded": false
+  },
+  {
+    "id": 3,
+    "description": "Make Some Projects to Enhance my Programming Journey",
+    "completed": false,
+    "created": "2025-07-03 21:29:11",
+    "priority": "high",
+    "deadline": "2025-07-15 00:00:00",
+    "reminded": false
+  },
+  {
+    "id": 4,
+    "description": "Start Jogging",
+    "completed": true,
+    "created": "2025-07-03 21:30:29",
+    "priority": "medium",
+    "deadline": "2025-07-04 23:59:00",
+    "reminded": false,
+    "completed_date": "2025-07-03 21:38:01"
+  },
+  {
+    "id": 6,
+    "description": "Learn Android Development with Kotlin",
+    "completed": false,
+    "created": "2025-07-03 21:32:37",
+    "priority": "high",
+    "deadline": "2025-07-31 23:59:00",
+    "reminded": false
+  },
+  {
+    "id": 7,
+    "description": "Make a New Project",
+    "completed": false,
+    "created": "2025-07-03 21:37:43",
+    "priority": "high",
+    "deadline": "2025-07-10 23:59:00",
+    "reminded": false
+  }
+]
